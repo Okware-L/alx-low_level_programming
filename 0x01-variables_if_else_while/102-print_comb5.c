@@ -39,7 +39,7 @@ int main(void)
 			}
 			c2++;
 		}
-		c++
+		c++;
 	}
 	putchar('\n');
 	return (0);
