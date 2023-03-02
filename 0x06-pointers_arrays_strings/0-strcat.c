@@ -18,5 +18,5 @@ char *_strcat(char *dest, char *src)
 		i++;
 	} while (src[a] != '\0');
 
-	return (dest);
+	retur;
 }
